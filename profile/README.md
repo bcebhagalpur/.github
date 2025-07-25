@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=BCE%20Bhagalpur%20Github%20Organisation;&font=Fira%20Code&center=true&width=440&height=45&color=7ef75c&vCenter=true&pause=30&size=22" />
-  </a>
+<img src="https://i.postimg.cc/nhpf3Qwm/BHAGALPUR-COLLEGE-OF-ENGINEERING-1-removebg-preview.png" alt="clg ka logo">
 </p>
 
 <p align="center">
